@@ -1,2 +1,5 @@
-package example;public class qwe {
+package example;
+
+public class qwe {
+
 }
